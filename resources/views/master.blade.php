@@ -24,5 +24,57 @@
         height: 500px;
         padding-top: 100px;
     }
+    img.slider-img
+    {
+        height: 400px !important
+    } 
+    .custom-product
+    {
+        height: 600px;
+    }
+    h3
+    {
+        color: #008080;
+    }
+    p
+    {
+        color: #808000;
+    }
+    h4
+    {
+        color: #808000;
+    }
+    h2
+    {
+        color: #808000;
+    }
+    .trending-wrapper
+    {
+        margin: 30 px;
+    }
+    .trending-item
+    {
+        float: left;
+        width: 20%;
+    }
+    .trending-img
+    {
+        height: 100px;
+    }
+    .detail-img
+    {
+        height: 200px;
+    }
+    .serach-box
+    {
+        width: 500px !important
+    }
+    .cart-list
+    {
+        border-bottom: 1px solid #000;
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+    }
+
 </style>
 </html>
